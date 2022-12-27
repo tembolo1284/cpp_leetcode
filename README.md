@@ -21,8 +21,47 @@ put together to test out the function in the Solution class.
 14) ClimbingStairs
 15) BestTimeToBuyAndSellStockII
 16) BestTimeToBuyAndSellStock
-17)
-18)
-19)
-20)
-
+17) BernoulliQuestion
+18) BinarySearch
+19) BinaryTreeLevelOrderTraversal
+20) FibonacciNumber
+21) FindPivotIndex
+22) FirstBadVersion
+23) FirstUniqueCharacterInString
+24) FloodFill
+25) HappyNumber
+26) ImplementQueueUsingStacks
+27) IntersectionOfTwoLinkedLists
+28) IsSubsequence
+29) IsomorphicStrings
+30) Kanerai
+31) LinearSearch
+32) LinkedListCycle
+33) LinkedListCycleII
+34) LongestPalindrome
+35) LowestCommonAncestor
+36) MergeTwoSortedLists
+37) MiddleOfLinkedList
+38) NaryTreePreorderTraversal
+39) NumberOfIslands
+40) RansomNote
+41) RemoveDuplicatesFromSortedList 
+42) RemoveLinkedListElement
+43) ReverseLinkedList
+44) RunningSum1DArray
+45) Search2DMatrix
+46) SingleNumber
+47) ValidAnagram
+48) ValidParentheses
+49) ValidSudoku
+50) ValidateBinarySearchTree
+51)
+52)
+53)
+54)
+55)
+56)
+57)
+58)
+59)
+60)
